@@ -1,0 +1,12 @@
+{
+  "name": "QR-FIT-ACADEMIA",
+  "short_name": "QR-FIT",
+  "description": "Guia de exercícios por aparelho com acesso por QR Code e conteúdo offline.",
+  "lang": "pt-BR",
+  "start_url": "./?aparelho=leg-press-45",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a1c1e",
+  "theme_color": "#ff4b26",
+  "icons": []
+}
